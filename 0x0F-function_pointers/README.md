@@ -1,0 +1,1 @@
+My function_pointers assignment
